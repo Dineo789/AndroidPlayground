@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">The Quick Guide</string>
+    <string name="title">Android Quick Guide</string>
+    <string name="spannable_string">Spannable Strings</string>
+    <string name="sampletext">some text</string>
+    <string name="android_documentation">Open Documentation</string>
+    <string name="spannable">Spannable Strings</string>
+    <string name="unit_testing">Intents</string>
+    <string name="intents">Intents</string>
+    <string name="shortcuts">Shortcuts</string>
+    <string name="mvp">MVP Design Pattern</string>
+    <string name="addProPic">How to add profile picture</string>
+    <string name="about_spannable">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cras suscipit vulputate mauris sed sollicitudin.
+        Quisque imperdiet diam ut ipsum suscipit molestie.
+        Nunc lacus nisl, aliquet sit amet justo ac, volutpat placerat odio.
+        Etiam luctus facilisis sem, ut suscipit orci imperdiet id.
+        Suspendisse molestie, dolor vitae maximus sagittis, tortor dui ultricies eros, et facilisis lacus nulla vel leo.
+        Fusce sodales dapibus velit non commodo.
+        Praesent blandit neque diam, semper fermentum quam laoreet nec. Integer mollis sapien sed urna eleifend finibus id eget massa.
+        Donec sit amet erat enim. Nam eget felis sit amet diam iaculis molestie vitae scelerisque massa.</string>
+    <string name="about_mvp">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cras suscipit vulputate mauris sed sollicitudin.
+        Quisque imperdiet diam ut ipsum suscipit molestie.
+        Nunc lacus nisl, aliquet sit amet justo ac, volutpat placerat odio.
+        Etiam luctus facilisis sem, ut suscipit orci imperdiet id.
+        lerisque massa.</string>
+    <string name="about_shortcuts">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cras suscipit vulputate mauris sed sollicitudin.
+        \n\n
+        <b>For Mac Android Studio\n\n</b>
+        cmd + D         Duplicate focused line on next line\n
+        double Shift    Search entire project\n
+        cmd + F         Search on focused file\n
+        cmd + shift + L/R    Highlight entire line\n
+        cmd + shift + U/D    Move line\n
+        alt + U/D       Highlight from inside tag out.
+        alt + cmd + o   Remove unused imports
+        ctrl + alt + l  Line spacing
+    </string>
+    <string name="about_profile_pictures"></string>
+
+
+
+
+</resources>

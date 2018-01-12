@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Dineo",
+    "surname": "Senona"
+  },
+
+  {
+    "id": 2,
+    "name": "Zachery",
+    "surname": "Ladiie"
+  },
+  {
+    "id": 3,
+    "name": "Ben",
+    "surname": "Allison"
+  },
+
+  {
+    "id": 4,
+    "name": "Thato",
+    "surname": "Senona"
+  },
+  {
+    "id": 5,
+    "name": "Neo",
+    "surname": "Denin"
+  },
+
+  {
+    "id": 6,
+    "name": "Hazel",
+    "surname": "Louw"
+  },
+  {
+    "id": 7,
+    "name": "Sam",
+    "surname": "Smith"
+  },
+
+  {
+    "id": 8,
+    "name": "Dane",
+    "surname": "Cook"
+  },
+  {
+    "id": 9,
+    "name": "Thuli",
+    "surname": "Anderson"
+  },
+
+  {
+    "id": 10,
+    "name": "Sandile",
+    "surname": "Sanders"
+  }
+]

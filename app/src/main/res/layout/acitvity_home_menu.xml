@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:layout_margin="4dp"
+    tools:context="com.example.admin.androidplayground.content.MainActivity">
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/title"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/message"
+        android:id="@+id/iv_profilepic"
+        android:layout_margin="8dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/iv_profilepic"
+        android:id="@+id/iv_profilepic2"
+        android:layout_margin="8dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        />
+
+
+<android.support.v7.widget.RecyclerView
+    android:id="@+id/recycler_view"
+    android:layout_below="@id/iv_profilepic2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"/>
+
+</RelativeLayout>
